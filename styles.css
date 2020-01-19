@@ -64,7 +64,6 @@ button {
     background-image: url('images/screen1_bg.png');
     background-size: cover;
     background-repeat: no-repeat;
-    width: 100vw;
     padding-top: 100px;
 }
 
